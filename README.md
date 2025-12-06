@@ -24,16 +24,14 @@
 
 ## 📚 Currently Learning
 - Microservices  
-- Entity Framework Core  
-- Cloud basics (Azure / AWS)  
+- Entity Framework Core   
 - Advanced Java & Spring Boot
 
 ---
 
 ## 🛠 Tools & Platforms
 - Visual Studio, VS Code  
-- Eclipse / IntelliJ  
-- Postman  
+- Eclipse / IntelliJ   
 - Git & GitHub  
 - MySQL Workbench
 

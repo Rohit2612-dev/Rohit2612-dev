@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Rohit Taksande👋
 
-<!--
-**Rohit2612-dev/Rohit2612-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently pursuing **PG-DAC (Post Graduate Diploma in Advanced Computing)** from **CDAC**, where I’m learning and building projects in full-stack development and software engineering.
 
-Here are some ideas to get you started:
+💻 I am passionate about developing scalable applications, learning new technologies, and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies
+
+### 🧑‍💻 Programming & Backend
+- **C#, .NET, ASP.NET Core MVC / Web API**
+- **Java, JDBC, Hibernate, Spring Boot**
+
+### 🌐 Frontend Development
+- **HTML5, CSS3, JavaScript**
+- Basic understanding of **Bootstrap** & responsive design
+
+### 🗄️ Databases
+- **MySQL**  
+- Basics of **SQL Server**
+
+---
+
+## 📚 Currently Learning
+- Microservices  
+- Entity Framework Core  
+- Cloud basics (Azure / AWS)  
+- Advanced Java & Spring Boot
+
+---
+
+## 🛠 Tools & Platforms
+- Visual Studio, VS Code  
+- Eclipse / IntelliJ  
+- Postman  
+- Git & GitHub  
+- MySQL Workbench
+
+---
+
+## 📈 GitHub Stats (Optional)
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit2612-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2612-dev&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ About Me
+- 🔍 I enjoy solving coding challenges on LeetCode.  
+- 🤝 Open to collaborating on Java / .NET / Spring Boot projects.  
+- 📫 Reach me at: **rohittaksande26@gmail.com**
+
+---
+
+### 🚀 *“Code, Learn, Improve — Everyday.”*

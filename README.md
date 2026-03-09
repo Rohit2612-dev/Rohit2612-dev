@@ -13,7 +13,7 @@
 - **Java, JDBC, Hibernate, Spring Boot**
 
 ### 🌐 Frontend Development
-- **HTML5, CSS3, JavaScript**
+- **HTML5, CSS3, JavaScript, React**
 - Basic understanding of **Bootstrap** & responsive design
 
 ### 🗄️ Databases

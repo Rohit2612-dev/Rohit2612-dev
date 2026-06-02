@@ -1,8 +1,8 @@
 # Hi there, I'm Rohit Taksande👋
 
-🎓 I’m currently pursuing **PG-DAC (Post Graduate Diploma in Advanced Computing)** from **CDAC**, where I’m learning and building projects in full-stack development and software engineering.
+🎓 I’m **PG-DAC (Post Graduate Diploma in Advanced Computing)** from **CDAC** graduate, where I have learnd and build projects in full-stack development and software engineering.
 
-💻 I am passionate about developing scalable applications, learning new technologies, and improving my problem-solving skills.
+💻 I am passionate about developing scalable applications, learning new technologies, and improving my problem-solving skills by solving daily leetcode problems.
 
 ---
 
